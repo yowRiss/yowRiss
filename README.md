@@ -56,7 +56,7 @@
 
 - ✉️ Email: [personal@riss.me](mailto:personal@riss.me)
 - 🌐 Portfolio: [faris.is-a.dev]
-- 📸 Instagram: [![Instagram](https://img.shields.io/badge/-@kaii.sass-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yrszz._)
+- 📸 Instagram: [![Instagram](https://img.shields.io/badge/-@yrszz._-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yrszz._)
 
 ---
 
