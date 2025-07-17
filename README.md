@@ -46,7 +46,7 @@
 
 ## 🎓 Education
 
-- 🏫 **SMK Negeri 1 Banjarmasin**  
+- 🏫 **SMK Negeri w Banjarmasin**  
   📚 Major: software development
   📍 Location: Banjarmasin, Indonesia
 
