@@ -46,7 +46,7 @@
 
 ## 🎓 Education
 
-- 🏫 **SMK Negeri w Banjarmasin**  
+- 🏫 **SMK Negeri 2 Banjarmasin**  
   📚 Major: software development
   📍 Location: Banjarmasin, Indonesia
 
@@ -60,4 +60,4 @@
 
 ---
 
-Thanks for visiting! 🙏 Let's connect and build something amazing together.
+Thanks for visiting! Let's connect and build something amazing together.
